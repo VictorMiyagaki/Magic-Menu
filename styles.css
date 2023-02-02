@@ -12,13 +12,13 @@
 body {
     display: flex;
     justify-content: center;
-    align-items: center;
     min-height: 100vh;
     background: var(--clr);
+    margin-top: 35px;
 }
 
 .navigation {
-    width: 400px;
+    width: 385px;
     position: relative;
     height: 70px;
     background: #fff;
